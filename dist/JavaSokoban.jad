@@ -1,0 +1,8 @@
+MIDlet-1: JavaSokoban, , JavaSokoban
+MIDlet-Jar-Size: 27471
+MIDlet-Jar-URL: JavaSokoban.jar
+MIDlet-Name: JavaSokoban
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
